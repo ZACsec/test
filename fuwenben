@@ -1,0 +1,6 @@
+<!DOCTYPE html>
+<html>
+<body>
+<p><b>ZACQFTEST</b><img src=x onerror=alert("XSS_FROM_ANDROID")></p>
+</body>
+</html>
